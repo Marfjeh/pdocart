@@ -1,0 +1,9 @@
+.navbar.navbar-default {
+  margin-bottom: 0;
+}
+
+#tromp{
+  background-image: url('../img/tree.jpg');
+  background-size:repeat;
+  height: 500px;
+}
