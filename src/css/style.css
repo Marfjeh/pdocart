@@ -1,9 +1,19 @@
-.navbar.navbar-default {
-  margin-bottom: 0;
+.navbar.navbar-default{
+  margin-botom:0;
 }
 
-#tromp{
-  background-image: url('../img/tree.jpg');
-  background-size:repeat;
-  height: 500px;
+#topotron{
+  background-image:url(../img/tree.jpg);
+  background-size: cover;
+  height:500px;
+  padding-top: 200px;
+}
+
+.container{
+	margin-top: 50px;
+}
+
+.jumbotron{
+	text-align: center;
+	color: white;
 }
