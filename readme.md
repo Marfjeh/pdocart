@@ -13,3 +13,5 @@ $database_config = [
 ];
 ?>
 ```
+
+The objective was to make a Webshop with using Bootstrap and using PDO. this is no means it's safe, do not use this in a production environment.
